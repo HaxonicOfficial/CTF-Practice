@@ -1,5 +1,5 @@
 # Looks like it is a mp4 file, right?
-Open up your linux and type
+Open up your linux and type\n
 <code> binwalk Look\ Deep.mp4 </code>
 
 you will see that it is a rar file.
