@@ -6,7 +6,7 @@ you will see that it is a rar file.
 
 So, extract it... You will see a image.
 
-Open that image, Agagin you will find nothing.
+Open that image, Again you will find nothing.
 
 use this command in your terminal  
 <code>strings flag.jpg</code>
