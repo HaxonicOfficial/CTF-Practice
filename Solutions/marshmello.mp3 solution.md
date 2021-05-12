@@ -4,7 +4,7 @@ Well, if you have seen Ghazi Attack or Raazi movie, you must have come across a 
 
 It is known as Morse-Code - Refer wikipedia [https://en.wikipedia.org/wiki/Morse_code]
 
-Use *Audacity* or this online tool - https://morsecode.scphillips.com/labs/audio-decoder-adaptive/
+Use *Audacity* or this online tool - https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 
 
 Music from 1:07
